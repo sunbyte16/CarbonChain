@@ -194,6 +194,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Empowering coastal restoration through blockchain transparency*
 
 </div>
-#   C a r b o n C h a i n  
- #   C a r b o n C h a i n  
- 
+#
